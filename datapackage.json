@@ -1,0 +1,42 @@
+{
+  "name": "uk-parliament-201211-leveson-inquiry",
+  "title": "An Inquiry into the Culture, Practices and Ethics of the Press",
+  "resources": [
+    {
+      "title": "November 2012 Report Volume I",
+      "path": "archive/0780_i.pdf",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "sources": [{
+        "web": "http://webarchive.nationalarchives.gov.uk/20140122145147/http://www.official-documents.gov.uk/document/hc1213/hc07/0780/0780_i.pdf"
+      }]
+    },
+    {
+      "title": "November 2012 Report Volume II",
+      "path": "archive/0780_ii",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "sources": [{
+        "web": "http://webarchive.nationalarchives.gov.uk/20140122145147/http://www.official-documents.gov.uk/document/hc1213/hc07/0780/0780_ii.pdf"
+      }]
+    },
+    {
+      "title": "November 2012 Report Volume III",
+      "path": "archive/0780_iii",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "sources": [{
+        "web": "http://webarchive.nationalarchives.gov.uk/20140122145147/http://www.official-documents.gov.uk/document/hc1213/hc07/0780/0780_iii.pdf"
+      }]
+    },
+    {
+      "title": "November 2012 Report Volume IV",
+      "path": "archive/0780_iv",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "sources": [{
+        "web": "http://webarchive.nationalarchives.gov.uk/20140122145147/http://www.official-documents.gov.uk/document/hc1213/hc07/0780/0780_iv.pdf"
+      }]
+    }
+  ]
+}
